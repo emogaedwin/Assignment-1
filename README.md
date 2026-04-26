@@ -1,2 +1,8 @@
 # Assignment-1
-Assignment repo
+Assignments repo
+
+let bunny = {
+  name: "Bingo",
+  age: 4,
+  isHappy: false
+};
